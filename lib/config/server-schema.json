@@ -1,10 +1,10 @@
 {
-  "name": "new server",
+  "name": "",
   "host": "",
   "port": "",
   "user": "",
   "password": "",
-  "sftp": false,
+  "sftp": true,
   "privatekeyfile": "",
   "remote": "/"
 }
