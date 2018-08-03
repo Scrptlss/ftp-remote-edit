@@ -2,7 +2,7 @@
   "menu": [{
     "label": "Packages",
     "submenu": [{
-      "label": "Ftp-Remote",
+      "label": "_Remote",
       "submenu": [{
           "label": "Toggle",
           "command": "ftp-remote-edit:toggle"
@@ -152,7 +152,7 @@
     ],
 
     "atom-text-editor": [{
-      "label": "Ftp-Remote-Edit",
+      "label": "Remote",
       "submenu": [{
           "label": "Toggle",
           "command": "ftp-remote-edit:toggle"
